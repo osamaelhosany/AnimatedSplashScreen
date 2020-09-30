@@ -11,3 +11,11 @@ Note:
 Don't forget to init Lottie in each platform 
 - Android : Lottie.Forms.Droid.AnimationViewRenderer.Init();
 - IOS : Lottie.Forms.iOS.Renderers.AnimationViewRenderer.Init();
+
+## Screenshots
+![alt text](https://github.com/osamaelhosany/AnimatedSplashScreen/blob/master/Gif/android.gif)
+
+
+## My Controls
+- [ImageEditor](https://github.com/osamaelhosany/ImageEditor-XamarinForms)
+- [ProgressSteps](https://github.com/osamaelhosany/ProgressSteps)
