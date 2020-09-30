@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AnimatedSplashScreen.Droid
 {
-    [Activity(Label = "Sample",
+    [Activity(Label = "AnimatedSplashScreen",
         Icon = "@drawable/icon",
         Theme = "@style/Theme.Splash",
         MainLauncher = true,
@@ -21,9 +21,6 @@ namespace AnimatedSplashScreen.Droid
 
             var animationView = FindViewById<LottieAnimationView>(Resource.Id.animation_view);
             animationView.AddAnimatorListener(this);
-            //Task.Delay(500);
-            //Finish();
-            //StartActivity(new Intent(Application.Context, typeof(MainActivity)));
         }
 
         public void OnAnimationCancel(Animator animation)
