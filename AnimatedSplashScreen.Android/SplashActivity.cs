@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AnimatedSplashScreen.Droid
 {
-    [Activity(Label = "Sample",
+    [Activity(Label = "AnimatedSplashScreen",
         Icon = "@drawable/icon",
         Theme = "@style/Theme.Splash",
         MainLauncher = true,
