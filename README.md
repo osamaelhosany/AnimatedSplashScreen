@@ -8,6 +8,6 @@ First Install Lottie Packages
 - Com.Airbnb.Xamarin,Forms.Lottie => in the 3 projects 
 
 Note: 
-don't forget to init Lottie in each platform 
-Android : Lottie.Forms.Droid.AnimationViewRenderer.Init();
-IOS : Lottie.Forms.iOS.Renderers.AnimationViewRenderer.Init();
+Don't forget to init Lottie in each platform 
+- Android : Lottie.Forms.Droid.AnimationViewRenderer.Init();
+- IOS : Lottie.Forms.iOS.Renderers.AnimationViewRenderer.Init();
